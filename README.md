@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/merzelert" target="blank"><img src="https://img.shields.io/twitter/follow/merzelert?logo=twitter&style=for-the-badge" alt="merzelert" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, React and Nodejs**
+- 🌱 **JavaScript, React and Nodejs**
 
 - 📫 How to reach me **erik.retana.lopez@gmail.com**
 
