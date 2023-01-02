@@ -5,7 +5,7 @@
 
 - 🌱 **JavaScript, React and Nodejs**
 
-- 📫 How to reach me **erik.retana.lopez@gmail.com**
+- 📫 How to reach me **erik.retana.lopez@gmail.com** **merzelert@gmail.com**
 
 - ⚡ Fun fact **I am passionate about video games, technology and cinema**
 
